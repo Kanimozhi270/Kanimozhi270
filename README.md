@@ -15,10 +15,9 @@
 - Love contributing to **open-source** initiatives  
 
 ## 📫 How to Reach Me  
-- ✉️ Email: [your email here]  
-- 💼 LinkedIn: [your LinkedIn profile here]  
-- 🐦 Twitter: [your Twitter/X profile here]  
-
+- ✉️ Email: [kanimozhi.k2701@gmail.com]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/kanimozhi-vanjinathan-55bb72202/]  
+ 
 ## ⚡ Fun Fact  
 - I enjoy **exploring new Android libraries** and optimizing app performance! 🚀  
 
